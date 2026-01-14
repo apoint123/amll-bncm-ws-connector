@@ -57,7 +57,7 @@
     "typescript": "^5.7.3",
     "typescript-event-target": "^1.1.1",
     "uuid": "^11.0.3",
-    "vite": "^5.4.11",
+    "vite": "^5.4.19",
     "vite-plugin-lightningcss": "^0.0.5",
     "vite-plugin-svgr": "^4.3.0",
     "vite-plugin-wasm": "^3.3.0"
